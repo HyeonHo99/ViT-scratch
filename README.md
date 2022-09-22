@@ -1,6 +1,6 @@
 # Vision-Transformer Implementation from scratch
 #### Pytorch Implementation of ViT Model Presented on [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
-<img src="imgs/ViT-title.PNG" width="500" height="250"></img>
+<img src="imgs/ViT-title.PNG" width="500" height="250"></img><br>
 
 
 ## Vision Transformer - Model Architecture
