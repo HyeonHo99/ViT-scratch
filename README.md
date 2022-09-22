@@ -12,7 +12,12 @@
 
 ## Patch Embedding
 
-##
+## Multi-Head Attention
+
+## Block (Encoder Block)
+- Exactly same except that in <b>Transformer</b>, the order is Add&Norm, but in <b>ViT</b>, it's Norm&Add
+- Norm: Layer Normalization
+- Add : Residual Summation
 
 ## Quantitative Analysis
 **Comparisons with Image Classification Benchmarks**<br>
