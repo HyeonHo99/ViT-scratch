@@ -1,12 +1,13 @@
-# ViT-scratch
-Pytorch implementation of ViT (Vision Transformer)
+# Vision-Transformer Implementation from scratch
+### Pytorch Implementation of ViT Model Presented on [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
+<img src="imgs/ViT-title.PNG" width="500" height="300"></img>
 
-Original Paper : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (https://arxiv.org/pdf/2010.11929.pdf)
 
+## Vision Transformer - Model Architecture
+- Only Encoder from [Transformer](https://arxiv.org/pdf/1706.03762.pdf) is employed. This is not seq2seq model, but an image classifier.
+- Classification is performed by one additional token, which is inserted in front of the input token sequence.
+<img src="imgs/ViT-architecture.PNG" width="400" height="500"></img>
 
-**Overall Architecture**
-
-![image](https://user-images.githubusercontent.com/69974410/185327677-c2378e98-395a-4e1a-a2d7-6615bebf8218.png)
 
 
 
