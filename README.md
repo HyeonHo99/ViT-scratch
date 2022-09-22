@@ -19,6 +19,8 @@
 - Norm: Layer Normalization
 - Add : Residual Summation
 
+## Combine All: Vision Transformer
+
 ## Quantitative Analysis
 **Comparisons with Image Classification Benchmarks**<br>
 ![image](https://user-images.githubusercontent.com/69974410/185328457-434f53f4-99f5-4161-9fa7-a2945f54faf8.png)<br>
