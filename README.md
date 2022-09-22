@@ -8,7 +8,11 @@
 - Classification is performed by one additional token <b>(cls token)</b>, which is inserted in front of the input token sequence.
 <img src="imgs/ViT-architecture.PNG" width="550" height="300"></img>
 
-## To Be Updated
+### To Be Updated
+
+## Patch Embedding
+
+##
 
 ## Quantitative Analysis
 **Comparisons with Image Classification Benchmarks**<br>
